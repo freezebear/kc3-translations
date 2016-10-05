@@ -49,3 +49,15 @@ For quest descriptions like
 `Have Tenryuu (\u5929\u9f8d) and Tatsuta (\u9f8d\u7530) in your main fleet.`
 
 It is your choice if you want to still include kanji representations like `(\u5929\u9f8d)` in your own language
+
+~~sample~~
+
+## Notes & Rules for Specific Languages
+
+For several languages, there are extra notes and rules:
+
+* [Simplified Chinese (scn)](data/scn/README.md)
+* [Traditional Chinese (tcn)](data/tcn/readme.md)
+* [Japanese (jp)](data/jp/README.md)
+
+Make sure to read them before contribution.

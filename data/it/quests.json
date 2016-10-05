@@ -227,6 +227,58 @@
         "name": "1° Squadrone Silurante, un altro assalto nel Mare del Nord",
         "desc": "Schiera Abukuma Kai Ni come ammiraglia con Hibiki/Вер, Yuugumo, Naganami, Akigumo e Shimakaze nella tua flotta principale"
     },
+    "161": {
+        "name": "Riorganizza la Quinta Divisione Portaerei!",
+        "desc": "Schiera Shoukaku, Zuikaku, Oboro e Akigumo nella tua flotta principale"
+    },
+    "162": {
+        "name": "Prepara alla sortita il Nuovo Ventunesimo Squadrone",
+        "desc": "Schiera Nachi(Kai-2), Ashigara(Kai-2), Tama e Kiso nella tua flotta principale"
+    },
+    "163": {
+        "name": "Organizza il Sedicesimo Squadrone (Prima Generazione)",
+        "desc": "Schiera Ashigara come ammiraglia con Kuma e Nagara nella tua flotta principale"
+    },
+    "164": {
+	"code": "A59",
+        "name": "Organizza la Terza Divisione Portaerei",
+        "desc": "Seleziona Zuikaku Kai come ammiraglia, Zuihou, Chitose e Chiyoda (versione CVL non AV) nella tua flotta principale"
+    },
+    "165": {
+	"code": "A60",
+        "name": "Organizza la Quarta Divisione Portaerei",
+        "desc": "Inserisci Ise Kai e Hyuuga Kai nella tua flotta principale"
+    },
+    "166": {
+	"code": "A61",
+        "name": "Organizza la Flotta di Ozawa",
+        "desc": "Seleziona Zuikaku Kai come ammiraglia, Zuihou Kai, Chitose e Chiyoda (CVL), Ise Kai e Hyuuga Kai nella tua flotta principale"
+    },
+    "167": {
+	"code": "A62",
+        "name": "Organizza la Nuova Divisione POrtaerei",
+        "desc": "Seleziona Zuikaku Kai Ni, Shoukaku Kai Ni e due Cacciatorpedinieri (DD) nella tua flotta principale"
+    },
+    "168": {
+	"code": "A63",
+        "name": "Organizza il Sedicesimo Squadrone (Seconda Generazione)",
+        "desc": "Schiera Natori come ammiraglia, Isuzu e Kinu devono essere nella tua flotta"
+    },
+    "169": {
+	"code": "A64",
+        "name": "Organizza la Nuova Divisione Portaerei",
+        "desc": "Schiera nella tua flotta 2 CV, 2 BBV/CAV e 2 DD"
+    },
+    "170": {
+	"code": "A65",
+        "name": "Rinforza la Flotta di Contrattacco Superficiale",
+        "desc": "Schiera Kasumi come ammiraglia, Ashigara, Ooyodo, Asashimo e Kiyoshimo nella tua flotta"
+    },
+    "171": {
+		"code": "A66",
+        "name": "Organizza la 31esima Divisione Cacciatorpedinieren (Prima Gen.)",
+        "desc": "Organizza una Flotta Mobile ASW con Isuzu Kai Ni Ammiraglia e che contenga sia Satsuki Kai Ni sia Uzuki Kai"
+    },
 
 
 
@@ -424,7 +476,7 @@
     },
     "279": {
         "name": "Impiega di nuovo nell'Operazione KE il 1° Squadrone Silurante",
-        "desc": "Schiera Abukuma Kai-2 come ammiraglia con Hibiki/Вер, Yuugumo, Naganami, Akigumo e Shimakaze e ottieni almeno il rango B contro il Boss"
+        "desc": "Schiera Abukuma Kai-2 come ammiraglia con Hibiki/Вер, Yuugumo, Naganami, Akigumo e Shimakaze e ottieni almeno il rango S contro il Boss"
     },
     "285": {
         "name": "\"Task Force Portaerei\", avanza verso il Mare del Nord!",
@@ -434,13 +486,71 @@
         "name": "Rafforza la Ronda Antisottomarino di fronte alla Base Navale!",
         "desc": "Ottieni quattro vittorie di grado A (o più alto) contro il boss del mondo 1-5"
     },
-
+    "287": {
+        "name": "Schiera la 5° Divisione Portaerei nel Sud del Mare delle Isole Coral",
+        "desc": "Schiera Shoukaku, Zuikaku, Oboro, Akigumo e altre due navi nel mondo 5-2 e ottieni il grado S contro il boss"
+    },
+    "288": {
+        "name": "Schiera il nuovo Ventunesimo Squadrone a Nord",
+        "desc": "Schiera Nachi(Kai-2), Ashigara(Kai-2), Tama, Kiso e altre 2 navi nel mondo 3-1 e ottieni il grado S contro il boss"
+    },
+    "289": {
+        "name": "Schiera il Sedicesimo Squadrone (Prima Generazione)",
+        "desc": "Schiera Ashigara come ammiraglia, Kuma, Nagara e altre 3 navi nel mondo 2-2 e ottieni il grado S contro il boss"
+    },
+    "290": {
+        "name": "A Pesca: catturiamo dei lucci!",
+        "desc": "Sconfiggi una flotta nemica posizionata nella zona di pesca a Nord e nella zona perimetrale e ottieni 3 lucci!"
+    },
+    "291": {
+        "name": "A Pesca: Dobbiamo catturare altri lucci!",
+        "desc": "È stancante, ma devi assicurarti che le zone di pesca siano sicure e catturare 10 lucci!"
+    },
+    "292": {
+        "name": "A Pesca: dacci dentro!",
+        "desc": "Sarà davvero difficile, ma puoi tentare di impegnarti per pescare altri lucci!"
+    },
+    "293": {
+	"code": "B53",
+        "name": "Terza Divisione Portaerei: difendete le isole Nansei",
+        "desc": "Schiera Zuikaku Kai come ammiraglia, Zuihou, Chitose e Chiyoda (entrambe CVL) (più altre due navi) nel mondo 1-4 e vinci col grado S contro il Boss"
+    },
+    "294": {
+	"code": "B54",
+        "name": "Schiera la Flotta di Ozawa",
+        "desc": "Schiera Zuikaku Kai come ammiraglia, Zuihou Kai, Chitose e Chiyoda (entrambe CVL), Ise Kai e Hyuuga Kai nel mondo 2-4 e vinci col grado S contro il Boss"
+    },
+    "295": {
+	"code": "B55",
+        "name": "Schiera il Sedicesimo Squadrone (Seconda Generazione)",
+        "desc": "Schiera Natori come ammiraglia, Isuzu , Kinu e altre 3 navi nel Mondo 2-3 e ottieni una vittoria di grado S contro il boss"
+    },
+    "296": {
+	"code": "B56",
+        "name": "Schiera la Nuova Divisione Portaerei nel Nord",
+        "desc": "Schiera 2 CV, 2 BBV/CAV e 2 DD nel mondo 3-3 e ottieni una vittoria di grado S contro il boss"
+    },
+    "297": {
+	"code": "B57",
+        "name": "Esegui l'Operazione Rei-Gou!",
+        "desc": "Schiera Kasumi come ammiraglia, Ashigara, Ooyodo, Asashimo, Kiyoshimo e un'altra nave nel mondo 2-5 e ottieni il grado S contro il boss"
+    },
+    "805": {
+	"code": "B58",
+        "name": "Invia Kasumi a pattugliare il Mare del Nord",
+        "desc": "Invia una flotta con Kasumi Kai Ni come ammiraglia, 3 DD e fino a 2 navi addizionali nel mondo 3-1 e ottieni il grado S contro il Boss"
+    },
+    "806": {
+        "code": "B59",
+        "name": "Invia Kasumi e sconfiggi la flotta nemica",
+        "desc": "Schiera una flotta con Kasumi Kai Ni come ammiraglia, 2 DD e fino a 3 navi addizionali nel mondo 2-5 e ottieni il grado S contro il boss"
+    },
 
 
     "201": {
         "code": "Bd1",
         "name": "Sortita Giornaliera 1",
-        "desc": "Sortita Giornaliera una flotta abissale",
+        "desc": "Sconfiggi una flotta abissale",
         "unlock": [ 216, 211, 212 ],
         "tracking": [ [0,1] ]
     },
@@ -479,7 +589,7 @@
     "226": {
         "code": "Bd7",
         "name": "Sortita Giornaliera 7",
-        "desc": "Sconfiggi 5 boss nei nodi con corna del Mondo 2",
+        "desc": "Sconfiggi 5 boss nei nodi con l'icona con corna del Mondo 2",
         "unlock": [ 230 ],
         "tracking": [ [0,5] ]
     },
@@ -497,7 +607,7 @@
     "214": {
         "code": "Bw1",
         "name": "Sortita Settimanale 1",
-        "desc": "Schiera 36 volte la tua flotta, Incontra 24 boss, Vinci contro 12 bosses di cui 6 grado S",
+        "desc": "Schiera 36 volte la tua flotta, Incontra 24 boss, Vinci contro 12 boss di cui 6 grado S",
         "unlock": [ 221 ],
         "tracking": [ [0,36], [0,24], [0,12], [0,6] ]
     },
@@ -531,14 +641,14 @@
     "229": {
         "code": "Bw6",
         "name": "Sortita Settimanale 6",
-        "desc": "Sconfiggi 12 boss nei nodi con corna nel mondo 4",
+        "desc": "Sconfiggi 12 boss nei nodi con l'icona con corna nel mondo 4",
         "unlock": [ 242 ],
         "tracking": [ [0,12] ]
     },
     "241": {
         "code": "Bw7",
         "name": "Sortita Settimanale 7",
-        "desc": "Sconfiggi 5 boss nei mondi 3-3, 3-4 o W3-5",
+        "desc": "Sconfiggi 5 boss nei mondi 3-3, 3-4 o 3-5",
         "tracking": [ [0,5] ]
     },
     "242": {
@@ -568,7 +678,7 @@
     "249": {
         "code": "Bm1",
         "name": "Disloca il Quinto Squadrone",
-        "desc": "Disloca Myoukou, Nachi, Haguro, +3 navi nel mondo W2-5. Ottieni il grado S contro il Boss",
+        "desc": "Disloca Myoukou, Nachi, Haguro, +3 navi nel mondo 2-5. Ottieni il grado S contro il Boss",
         "unlock": [ 265 ]
     },
     "256": {
@@ -645,12 +755,12 @@
     },
     "309": {
         "code": "C7",
-        "name": "Aumenta la qualità dell'allenamento per un altro assalto nel Mare del Nord",
+        "name": "Effettua allenamenti migliori per un altro assalto nel Mare del Nord",
         "desc": "Ottieni 4 vittorie nello stesso giorno nella modalità pratica"
     },
      "311": {
         "code": "C8",
-        "name": "Allenamento Elite della Flotta",
+        "name": "Allenamento d'Èlite per la Flotta",
         "desc": "Ottieni 7 vittorie in modalità pratica nello stesso giorno",
 		"tracking": [ [0,7] ]
     },
@@ -711,18 +821,18 @@
     },
     "412": {
         "code": "D10",
-        "name": "Rinforza l'attività delle BBV",
+        "name": "Migliora l'attività delle BBV",
         "desc": "Completa la Spedizione 23"
     },
     "411": {
         "code": "D11",
         "name": "Spedizione settimanale 3",
         "desc": "(Settimanale) Completa 7 volte la spedizione 37 o 38",
-        "tracking": [ [0,7] ]
+        "tracking": [ [0,6] ]
     },
     "413": {
         "code": "D12",
-        "name": "Rinforza l'attività delle BBV (Cont.)",
+        "name": "Migliora l'attività delle BBV (Cont.)",
         "desc": "Completa altre quattro volte la Spedizione 23"
     },
     "414": {
@@ -754,6 +864,11 @@
         "code": "D18",
         "name": "Cerimonia Navale",
         "desc": "Completa la Spedizione 8"
+    },
+    "420": {
+        "code": "D19",
+        "name": "Incrementa l'utilizzo della Task Force",
+        "desc": "Completa le spedizioni 35 e 26"
     },
 
 
@@ -889,6 +1004,66 @@
         "desc": "Porta a termine una modernizzazione di un equipaggiamento",
         "tracking": [ [0,1] ]
     },
+    "622": {
+        "code": "F19",
+        "name": "Cambio Modello: Aerosilurante Modello 97 (a Tenzan)",
+        "desc": "Seleziona Shoukaku equipaggiata con un Aerosilurante Modello 97 (Squadrone Murata) come ammiraglia e poi rottama 2 volte un Tenzan (Heavenly Mountain)"
+    },
+    "623": {
+        "code": "F20",
+        "name": "Organizza l'unità d'Élite Aerosilurante Modello 97",
+        "desc": "Seleziona Shoukaku o Akagi come ammiraglia e rottama 3 volte un Aerosiluranti Modello 97"
+    },
+    "624": {
+        "code": "F21",
+        "name": "Preparativi per il Prototipo di Equipaggiamento",
+        "desc": "Rottama 7 volte un equipaggiamento"
+    },
+    "625": {
+    	"code": "F22",
+    	"name": "Aggiunta al Prototipo di Equipaggiamento d'Aviazione",
+    	"desc": "Rottama un equipaggiamento 9 volte"
+    },
+    "626": {
+    	"code": "F23",
+    	"name": "Riorganizzazione della squadra di élite dei caccia",
+    	"desc": "Acquisisci un Membro dell'Equipaggio Abile, equipaggia un Caccia Zero Modello 21 su Houshou Segretaria, poi rottama due volte un Caccia Zero Modello 21 e un solo Caccia Modello 96"
+    },
+    "627": {
+        "code": "F24",
+        "name": "Conversione Modello: Caccia Zero Modello 21 (Abile)",
+        "desc": "Equipaggia un Caccia Zero Modello 21 (Abile) su una Portaerei Segretaria, poi rottama 2 volte un Caccia Zero Modello 52"
+    },
+    "628": {
+        "code": "F25",
+        "name": "Conversione Modello: Caccia Zero Modello 21 (Abile)",
+        "desc": "Equipaggia un Caccia Zero Modello 21 (Abile) di grado 7 su una Portaerei Segretaria, poi rottama 2 volte un Caccia Zero Modello 52"
+    },
+    "629": {
+        "code": "F26",
+        "name": "Riorganizza le Forze Combattenti: Caccia Zero Modello 52 (Abile)",
+        "desc": "Equipaggia un Caccia Zero Zero Modello 52 (Abile) di grado 7 su Zuikaku segretaria, poi rottama un Caccia Zero Modello 52C (Gruppo Aereo 601)"
+    },
+    "630": {
+        "code": "F28",
+        "name": "Riorganizzazione e Conversione Modello: Caccia Zero Modello 21 (Abile)",
+        "desc": "Equipaggia un Caccia Zero Modello 21 (Abile) di grado 7 su Zuikaku segretaria, poi rottama due volte un Caccia Zero Modello 21"
+    },
+    "631": {
+        "code": "F27",
+        "name": "Riorganiz. e Conversione Modello: Caccia Zero Modello 52C (Squadriglia Iwai)",
+        "desc": "Equipaggia un Caccia Zero Modello 52C (Squadriglia Iwai) di grado 7 su Zuikaku segretaria, poi rottama due volte un Caccia Zero Modello 62 (Cacciabombardiere)"
+    },
+    "632": {
+        "code": "F29",
+        "name": "Conversione Modello: Caccia Zero Modello 21 (Squadriglia Iwamoto)",
+        "desc": "Equipaggia un Caccia Zero Modello 21 (Squadriglia Iwamoto) su Zuikaku segretaria, poi rottama due volte un Caccia Zero Modello 52"
+    },
+    "633": {
+        "code": "F30",
+        "name": "Riorganiz. e Conv. Modello: Caccia Zero Modello 52A (Squadriglia Iwamoto)",
+        "desc": "Equipaggia un Caccia Zero Modello 52A (Squadriglia Iwamoto) di grado 7 su Zuikaku segretaria, poi rottama due volte un Saiun"
+    },
 
 
 
@@ -917,7 +1092,9 @@
         "name": "Preparativi per LSC (Parte 1)",
         "desc": "Completa con successo 4 modernizzazioni"
     },
-	
+    
+    
+   
 	
 	
 	
@@ -930,60 +1107,24 @@
         "name": "Preparativi per l'Amore (Parte 2)",
         "desc": "Mostra il tuo amore ottenendo due vittorie in modalità esercitazione."
     },
-	
-	"280": {
-        "code": "SN01",
-        "name": "Seconda strategia SN, Operazioni Preliminari",
-        "desc": "Completa la Mappa 2 dell'evento estivo 2015"
+    "801": {
+        "code": "NY1",
+        "name": "Buon Anno! Squadrone Silurante, in missione!",
+        "desc": "Libera una volta 1-3 con uno Squadrone Silurante (1 CL 3~5 DD)"
     },
-    "620": {
-        "code": "SN02",
-        "name": "Ordinare l'Arsenale",
-        "desc": "Rottama 5 volte un equipaggiamento"
+    "802": {
+        "code": "NY2",
+        "name": "Aiuta Irako durante l'Anno Nuovo!",
+        "desc": "Libera 3 volte 2-3 col grado S"
     },
-    "281": {
-        "code": "SN03",
-        "name": "Disloca una Pattuglia sul percorso della Forza Principale",
-        "desc": "Affonda 6 sottomarini"
+    "803": {
+        "code": "NY3",
+        "name": "L'Animo Fiammeggiante di una Corazzata! Un Nuovo Anno con l'artiglieria pesante!",
+        "desc": "Libera due volte 4-2 con 4 corazzate nella tua flotta"
     },
-    "158": {
-        "code": "SN04",
-        "name": "Assegna l'Aerosilurante Squadrone Murata ad Akagi",
-        "desc": "Setta Akagi come Segretaria ed equipaggiala con l'Aerosilurante Modello 97 (Squadrone Murata)"
-    },
-    "282": {
-        "code": "SN05",
-        "name": "Conquista la Superiorità Aerea nell'Area del Mare delle Salomone",
-        "desc": "Completa la Mappa 4 dell'evento estivo 2015"
-    },
-    "159": {
-        "code": "SN06",
-        "name": "Riassegna l'Aerosilurante Squadrone Murata a Shoukaku",
-        "desc": "Setta Shoukaku come Segretaria ed equipaggiala con l'Aerosilurante Modello 97 (Squadrone Murata)"
-    },
-    "310": {
-        "code": "SN07",
-        "name": "Allenamento Navale in vista dell'Operazione FS",
-        "desc": "Ottieni 4 vittorie nella modalità pratica"
-    },
-    "621": {
-        "code": "SN08",
-        "name": "Conversione Modello (Murata Squadron in Tenzan)",
-        "desc": "Setta Shoukaku come Segretaria ed equipaggiala con l'Aerosilurante Modello 97 (Squadrone Murata), poi rottama 2 Tenzan"
-    },
-    "160": {
-        "code": "SN09",
-        "name": "Organizza la Terza Flotta della Tast Force Portaerei",
-        "desc": "Crea una Task Force Portaerei (Flotta Combinata) con Shoukaku, Zuikaku e Zuihou nella prima flotta"
-    },
-    "284": {
-        "code": "SN10",
-        "name": "Stabilisci una testa di ponte per l'Operazione FS",
-        "desc": "Affonda 10 CV(L) Abissali"
-    },
-    "283": {
-        "code": "SN11",
-        "name": "Flotta Spedizione nell'Area Orientale, in missione!",
-        "desc": "Completa la mappa 5 dell'evento estivo 2015"
+    "804": {
+        "code": "NY4",
+        "name": "Un felice Anno Nuovo! Task Force Portaerei, in azione!",
+        "desc": "Libera due volte 6-2 con due CV nella tua flotta"
     }
 }
