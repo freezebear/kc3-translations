@@ -21,9 +21,22 @@
 		"311" : "Silahkan dilihat-lihat!",
 		"312" : "Selamat Datang! ada yang bisa dibantu?",
 		"313" : "Jadi yang ini?",
-		"314" : "Anda yakin dengan ini?"
+		"314" : "Anda yakin dengan ini?",
+		"315" : "Selamat datang di Toko	Akashi!",
+		"316" : "Terima kasih banyak!",
+		"317" : "Terima kasih atas bantuannya, Laksamana!",
+		"318" : "Large Ship Construction, ketika ada cukup sumber daya dan bahan tersisa, coba saja!",
 		
-		
+		"401" : "Laksamana, Operasinya sukses.",
+		"402" : "Laksamana. Operasinya sukses! seperti yang diharapkan.",
+		"403" : "Laksamana, selamat.",
+		"404" : "Telegram masuk dari Komando Armada!",
+		"405" : "Admiral, ada telegram masuk.",
+		"406" : "Apa yang Anda ingin lakukan?",
+		"407" : "Laksamana, laksanakanlah beberapa operasi ini.",
+		"408" : "Laksamana, waktunya untuk menjalankan operasi baru.",
+		"409" : "Dimengerti.",
+		"410" : "Dimohon bantuannya."
 	},
 	"titlecall_a" : {
 		"01" : "Kancolle",
