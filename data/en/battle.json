@@ -1,20 +1,20 @@
 {
 	"detection" : [
 		["", ""],
-		["OK", "good"],
-		["OK-", "good"],
-		["-", "bad"],
-		["NO", "bad"],
-		["OK+", "good"],
-		["NO+", "bad"]
+		["OK", "best", "All recon aircraft returned"],
+		["OK-", "good", "Some recon aircraft lost"],
+		["-", "worst", "All recon aircraft lost"],
+		["NO", "bad", "Reconnaissance failed"],
+		["OK+", "good", "No recon aircraft involved"],
+		["NO+", "bad", "No recon aircraft involved"]
 	],
 	
 	"airbattle" : [
 		["AP", "", "Air Parity"],
-		["AS+", "good", "Air Supremacy"],
+		["AS+", "best", "Air Supremacy"],
 		["AS", "good", "Air Superiority"],
-		["AI", "bad", "Air Incapability"],
 		["AD", "bad", "Air Denial"],
+		["AI", "worst", "Air Incapability"],
 		["None", "", "No Air Battle"]
 	],
 	
@@ -50,5 +50,13 @@
 		"Air attack",
 		"Fire attack",
 		"Torpedo attack"
+	],
+	
+	"airraiddamage" : [
+		"",
+		"Resources",
+		"Resources & LBAS",
+		"LBAS",
+		"No damage"
 	]
 }
