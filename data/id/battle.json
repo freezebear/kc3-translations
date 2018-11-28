@@ -11,19 +11,19 @@
 	
 	"airbattle" : [
 		["AP", "", "Proposional Udara"],
-		["AS+", "good", "Supremasi Udara"],
+		["AS+", "best", "Supremasi Udara"],
 		["AS", "good", "Superioritas Udara"],
 		["AD", "bad", "Resistansi Udara"],
-		["AI", "bad", "Ketidakcakapan Udara"],
+		["AI", "worst", "Ketidakcakapan Udara"],
 		["None", "", "Tak ada Pertempuran Udara"]
 	],
 	
 	"engagement" : [
 		["", "", ""],
-		["Prll", "", "Paralel"],
-		["HdOn", "", "Berhadapan"],
-		["Gr-T", "good", "T Hijau"],
-		["Rd-T", "bad", "T Merah"]
+		["Prll", "", "Paralel", "Damage 100%"],
+		["HdOn", "", "Berhadapan", "<span style='color:orange'>Damage 80%</span>"],
+		["Gr-T", "good", "T Hijau", "<span style='color:green'>Damage 120%</span>"],
+		["Rd-T", "bad", "T Merah", "<span style='color:red'>Damage 60%</span>"]
 	],
 	
 	"formation" : [
@@ -33,6 +33,7 @@
 		"Melingkar",
 		"Diagonal",
 		"Garis Lintang",
+		"Garda Bertahan",
 		"","","","","",
 		"Formasi Pelayaran 1 (anti-sub)",
 		"Formasi Pelayaran 2 (lurus)",
@@ -49,7 +50,8 @@
 		"",
 		"Serangan Udara",
 		"Serangan Tembakan",
-		"Serangan Torpedo"
+		"Serangan Torpedo",
+		"Dukungan ASW"
 	],
 	
 	"airraiddamage" : [
@@ -59,11 +61,33 @@
 		"LBAS",
 		"Tak ada kerusakan"
 	],
+	"cutinDay" : [
+		"",
+		"Laser",
+		"D Attack [1.2x2]",
+ 		"Sec CI [1.1]",
+ 		"Radar CI [1.2]",
+ 		"Sec/AP CI [1.3]",
+ 		"Mixed AP CI [1.5]",
+		"CVCI [1.15~1.25]"
+	],
+	
+	"cutinNight" : [
+		"",
+		"D Attack [1.2x2]",
+ 		"Mixed CI [1.3x2]",
+ 		"Torp CI [1.5~x2]",
+ 		"Sec CI [1.75x1]",
+ 		"Main Gun CI [2.0x1]",
+		"CVCI [1.18~1.25]",
+		"DD Main CI [1.3~x1]",
+		"DD Lookout CI [1.2~x1]"
+	],
 	
 	"aacitype" : [
 		[],
-		["Akizuki-Class", "High-angle Mount", "High Angle Mount", "Air Radar"],
-		["Akizuki-Class", "High-angle Mount", "Air Radar"],
+		["Akizuki-Class", "High-angle Mount", "High Angle Mount", "Radar"],
+		["Akizuki-Class", "High-angle Mount", "Radar"],
 		["Akizuki-Class", "High-angle Mount", "High Angle Mount"],
 		["Battleships", "Large Cal. Main Gun", "Type 3 Shell", "AA Fire Director", "Air Radar"],
 		["", "Built-in High-angle Mount", "Built-in High-angle Mount", "Air Radar"],
@@ -82,7 +106,15 @@
 		["Satsuki Kai Ni", "CD AA Machine Gun"],
 		["Kinu Kai Ni", "High-angle Mount (w/o Built-in FD)", "CD AA Machine Gun"],
 		["Kinu Kai Ni", "CD AA Machine Gun"],
+		["Yura Kai Ni", "High-angle Mount", "Air Radar"],
+		["Fumizuki Kai Ni", "CD AA Machine Gun"],
+		["UIT-25, I-504", "Non-CD AA Machine Gun"],
+		["Tatsuta Kai Ni", "High-angle Mount", "Non-CD AA Machine Gun"],
+		["Ise Kai, Hyuuga Kai", "12cm 30-tube Rocket Launcher Kai Ni", "Air Radar", "Type 3 Shell"],
+		["Musashi Kai Ni", "10cm Twin High-angle Gun Mount Kai + Additional Machine Guns", "Air Radar"],
+		[],
+		["Ise Kai, Hyuuga Kai, Musashi Kai, Kai Ni", "12cm 30-tube Rocket Launcher Kai Ni", "Air Radar"],
+		["Isokaze B Kai, Hamakaze B Kai", "High-angle Mount", "Air Radar"],
 		[]
-	]
-	
+	]	
 }
